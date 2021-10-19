@@ -1,0 +1,287 @@
+2021-10-18 16:34:46 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:35:26 INFO  Android Driver connected
+2021-10-18 16:35:26 INFO  User Opens Application in 
+2021-10-18 16:35:31 INFO  user in Home screen
+2021-10-18 16:35:32 INFO  Test Case :EntityDetailsPage-username valid input
+2021-10-18 16:35:32 INFO  clicks Register Button
+2021-10-18 16:35:39 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:35:39 INFO  Test Case :EntityDetailsPage-username valid input
+2021-10-18 16:35:40 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:35:40 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:35:42 INFO  user will landed on the New User screen
+2021-10-18 16:35:51 INFO  clicks on some other field
+2021-10-18 16:35:57 INFO  user clicks on Confirm button
+2021-10-18 16:36:03 INFO  proper error message should display under User Name field
+2021-10-18 16:36:04 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:36:04 INFO  terminate app
+2021-10-18 16:36:11 INFO  Restarting new App
+2021-10-18 16:36:11 INFO  User Opens Application in 
+2021-10-18 16:36:16 INFO  user in Home screen
+2021-10-18 16:36:16 INFO  Test Case :EntityDetailsPage-username invalid input 150 character
+2021-10-18 16:36:17 INFO  clicks Register Button
+2021-10-18 16:36:23 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:36:23 INFO  Test Case :EntityDetailsPage-username invalid input 150 character
+2021-10-18 16:36:24 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:36:24 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:36:27 INFO  user will landed on the New User screen
+2021-10-18 16:36:35 INFO  clicks on some other field
+2021-10-18 16:36:40 INFO  user clicks on Confirm button
+2021-10-18 16:36:45 INFO  proper error message should display under User Name field
+2021-10-18 16:36:46 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:36:46 INFO  terminate app
+2021-10-18 16:36:53 INFO  Restarting new App
+2021-10-18 16:36:53 INFO  User Opens Application in 
+2021-10-18 16:36:58 INFO  user in Home screen
+2021-10-18 16:36:58 INFO  Test Case :EntityDetailsPage-username invalid input with special character
+2021-10-18 16:36:58 INFO  clicks Register Button
+2021-10-18 16:37:05 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:37:05 INFO  Test Case :EntityDetailsPage-username invalid input with special character
+2021-10-18 16:37:05 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:37:05 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:37:08 INFO  user will landed on the New User screen
+2021-10-18 16:37:15 INFO  clicks on some other field
+2021-10-18 16:37:20 INFO  user clicks on Confirm button
+2021-10-18 16:37:25 INFO  proper error message should display under User Name field
+2021-10-18 16:37:26 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:37:27 INFO  terminate app
+2021-10-18 16:37:33 INFO  Restarting new App
+2021-10-18 16:37:33 INFO  User Opens Application in 
+2021-10-18 16:37:38 INFO  user in Home screen
+2021-10-18 16:37:38 INFO  Test Case :EntityDetailsPage-username invalid input empty fields
+2021-10-18 16:37:38 INFO  clicks Register Button
+2021-10-18 16:37:45 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:37:45 INFO  Test Case :EntityDetailsPage-username invalid input empty fields
+2021-10-18 16:37:45 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:37:45 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:37:48 INFO  user will landed on the New User screen
+2021-10-18 16:37:55 INFO  clicks on some other field
+2021-10-18 16:38:00 INFO  user clicks on Confirm button
+2021-10-18 16:38:06 INFO  proper error message should display under User Name field
+2021-10-18 16:38:07 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:38:07 INFO  terminate app
+2021-10-18 16:38:14 INFO  Restarting new App
+2021-10-18 16:38:14 INFO  User Opens Application in 
+2021-10-18 16:38:18 INFO  user in Home screen
+2021-10-18 16:38:19 INFO  Test Case :EntityDetailsPage-emaild valid input
+2021-10-18 16:38:19 INFO  clicks Register Button
+2021-10-18 16:38:26 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:38:26 INFO  Test Case :EntityDetailsPage-emaild valid input
+2021-10-18 16:38:26 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:38:26 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:38:29 INFO  user will landed on the New User screen
+2021-10-18 16:38:41 INFO  user clicks on Confirm button
+2021-10-18 16:38:46 INFO  proper error message should display under User Name field
+2021-10-18 16:38:48 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:38:48 INFO  terminate app
+2021-10-18 16:38:54 INFO  Restarting new App
+2021-10-18 16:38:54 INFO  User Opens Application in 
+2021-10-18 16:38:59 INFO  user in Home screen
+2021-10-18 16:38:59 INFO  Test Case :EntityDetailsPage-email invalid input 150 character
+2021-10-18 16:39:00 INFO  clicks Register Button
+2021-10-18 16:39:06 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:39:06 INFO  Test Case :EntityDetailsPage-email invalid input 150 character
+2021-10-18 16:39:07 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:39:07 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:39:09 INFO  user will landed on the New User screen
+2021-10-18 16:39:20 INFO  user clicks on Confirm button
+2021-10-18 16:39:26 INFO  proper error message should display under User Name field
+2021-10-18 16:39:27 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:39:27 INFO  terminate app
+2021-10-18 16:39:33 INFO  Restarting new App
+2021-10-18 16:39:33 INFO  User Opens Application in 
+2021-10-18 16:39:38 INFO  user in Home screen
+2021-10-18 16:39:38 INFO  Test Case :EntityDetailsPage-email invalid input with special character
+2021-10-18 16:39:39 INFO  clicks Register Button
+2021-10-18 16:39:45 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:39:45 INFO  Test Case :EntityDetailsPage-email invalid input with special character
+2021-10-18 16:39:46 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:39:46 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:39:48 INFO  user will landed on the New User screen
+2021-10-18 16:40:00 INFO  user clicks on Confirm button
+2021-10-18 16:40:05 INFO  proper error message should display under User Name field
+2021-10-18 16:40:06 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:40:06 INFO  terminate app
+2021-10-18 16:40:12 INFO  Restarting new App
+2021-10-18 16:40:12 INFO  User Opens Application in 
+2021-10-18 16:40:17 INFO  user in Home screen
+2021-10-18 16:40:17 INFO  Test Case :EntityDetailsPage-email invalid input empty fields
+2021-10-18 16:40:18 INFO  clicks Register Button
+2021-10-18 16:40:24 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:40:24 INFO  Test Case :EntityDetailsPage-email invalid input empty fields
+2021-10-18 16:40:25 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:40:25 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:40:27 INFO  user will landed on the New User screen
+2021-10-18 16:40:38 INFO  user clicks on Confirm button
+2021-10-18 16:40:44 INFO  proper error message should display under User Name field
+2021-10-18 16:40:45 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:40:45 INFO  terminate app
+2021-10-18 16:40:52 INFO  Restarting new App
+2021-10-18 16:40:52 INFO  User Opens Application in 
+2021-10-18 16:40:57 INFO  user in Home screen
+2021-10-18 16:40:57 INFO  Test Case :EntityDetailsPage-email invalid input numeric value
+2021-10-18 16:40:57 INFO  clicks Register Button
+2021-10-18 16:41:04 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:41:04 INFO  Test Case :EntityDetailsPage-email invalid input numeric value
+2021-10-18 16:41:05 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:41:05 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:41:08 INFO  user will landed on the New User screen
+2021-10-18 16:41:13 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:41:13 INFO  terminate app
+2021-10-18 16:41:20 INFO  Restarting new App
+2021-10-18 16:41:20 INFO  User Opens Application in 
+2021-10-18 16:41:25 INFO  user in Home screen
+2021-10-18 16:41:25 INFO  Test Case :EntityDetailsPage-countrycode
+2021-10-18 16:41:25 INFO  clicks Register Button
+2021-10-18 16:41:32 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:41:32 INFO  Test Case :EntityDetailsPage-countrycode
+2021-10-18 16:41:33 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:41:33 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:41:35 INFO  user will landed on the New User screen
+2021-10-18 16:41:48 INFO  user selects Country Code
+2021-10-18 16:41:55 INFO  user clicks on Confirm button
+2021-10-18 16:41:56 INFO  user will land on User Contact Details
+2021-10-18 16:41:56 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:41:58 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:41:58 INFO  Test Case :EntityDetailsPage-countrycode
+2021-10-18 16:42:01 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:42:01 INFO  terminate app
+2021-10-18 16:42:07 INFO  Restarting new App
+2021-10-18 16:42:07 INFO  User Opens Application in 
+2021-10-18 16:42:12 INFO  user in Home screen
+2021-10-18 16:42:12 INFO  Test Case :EntityDetailsPage-countrycode,with invalid email
+2021-10-18 16:42:13 INFO  clicks Register Button
+2021-10-18 16:42:20 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:42:20 INFO  Test Case :EntityDetailsPage-countrycode,with invalid email
+2021-10-18 16:42:21 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:42:21 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:42:24 INFO  user will landed on the New User screen
+2021-10-18 16:42:35 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:42:35 INFO  terminate app
+2021-10-18 16:42:41 INFO  Restarting new App
+2021-10-18 16:42:41 INFO  User Opens Application in 
+2021-10-18 16:42:46 INFO  user in Home screen
+2021-10-18 16:42:46 INFO  Test Case :EntityDetailsPage-Mobile number valid input
+2021-10-18 16:42:47 INFO  clicks Register Button
+2021-10-18 16:42:53 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:42:53 INFO  Test Case :EntityDetailsPage-Mobile number valid input
+2021-10-18 16:42:54 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:42:54 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:42:57 INFO  user will landed on the New User screen
+2021-10-18 16:43:21 INFO  user input invalid Mobile Number
+2021-10-18 16:43:27 INFO  user clicks on Confirm button
+2021-10-18 16:43:33 INFO  proper error message should display under mobile field
+2021-10-18 16:43:34 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:43:34 INFO  terminate app
+2021-10-18 16:43:40 INFO  Restarting new App
+2021-10-18 16:43:40 INFO  User Opens Application in 
+2021-10-18 16:43:45 INFO  user in Home screen
+2021-10-18 16:43:45 INFO  Test Case :EntityDetailsPage-mobile number invalid input 30 character
+2021-10-18 16:43:46 INFO  clicks Register Button
+2021-10-18 16:43:52 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:43:52 INFO  Test Case :EntityDetailsPage-mobile number invalid input 30 character
+2021-10-18 16:43:53 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:43:53 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:43:56 INFO  user will landed on the New User screen
+2021-10-18 16:44:22 INFO  user input invalid Mobile Number
+2021-10-18 16:44:27 INFO  user clicks on Confirm button
+2021-10-18 16:44:32 INFO  proper error message should display under mobile field
+2021-10-18 16:44:33 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:44:33 INFO  terminate app
+2021-10-18 16:44:40 INFO  Restarting new App
+2021-10-18 16:44:40 INFO  User Opens Application in 
+2021-10-18 16:44:45 INFO  user in Home screen
+2021-10-18 16:44:45 INFO  Test Case :EntityDetailsPage-mobile number invalid input with special character
+2021-10-18 16:44:45 INFO  clicks Register Button
+2021-10-18 16:44:52 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:44:52 INFO  Test Case :EntityDetailsPage-mobile number invalid input with special character
+2021-10-18 16:44:52 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:44:52 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:44:55 INFO  user will landed on the New User screen
+2021-10-18 16:45:21 INFO  user input invalid Mobile Number
+2021-10-18 16:45:26 INFO  user clicks on Confirm button
+2021-10-18 16:45:30 INFO  proper error message should display under mobile field
+2021-10-18 16:45:31 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:45:31 INFO  terminate app
+2021-10-18 16:45:38 INFO  Restarting new App
+2021-10-18 16:45:38 INFO  User Opens Application in 
+2021-10-18 16:45:42 INFO  user in Home screen
+2021-10-18 16:45:43 INFO  Test Case :EntityDetailsPage-mobile number invalid input empty fields
+2021-10-18 16:45:43 INFO  clicks Register Button
+2021-10-18 16:45:49 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:45:49 INFO  Test Case :EntityDetailsPage-mobile number invalid input empty fields
+2021-10-18 16:45:50 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:45:50 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:45:53 INFO  user will landed on the New User screen
+2021-10-18 16:46:18 INFO  user input invalid Mobile Number
+2021-10-18 16:46:23 INFO  user clicks on Confirm button
+2021-10-18 16:46:28 INFO  proper error message should display under mobile field
+2021-10-18 16:46:29 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:46:29 INFO  terminate app
+2021-10-18 16:46:35 INFO  Restarting new App
+2021-10-18 16:46:35 INFO  User Opens Application in 
+2021-10-18 16:46:40 INFO  user in Home screen
+2021-10-18 16:46:40 INFO  Test Case :EntityDetailsPage-promt messageValidation -Cancel
+2021-10-18 16:46:41 INFO  clicks Register Button
+2021-10-18 16:46:47 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:46:47 INFO  Test Case :EntityDetailsPage-promt messageValidation -Cancel
+2021-10-18 16:46:48 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:46:48 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:46:50 INFO  user will landed on the New User screen
+2021-10-18 16:46:52 INFO  clicks Cancel in New User
+2021-10-18 16:46:54 INFO  user will prompt to ask about confirmation
+2021-10-18 16:46:56 INFO  user will land on User Contact Details
+2021-10-18 16:46:56 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:46:59 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:46:59 INFO  Test Case :EntityDetailsPage-promt messageValidation -Cancel
+2021-10-18 16:47:00 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:00 INFO  terminate app
+2021-10-18 16:47:06 INFO  Restarting new App
+2021-10-18 16:47:06 INFO  User Opens Application in 
+2021-10-18 16:47:11 INFO  user in Home screen
+2021-10-18 16:47:11 INFO  Test Case :EntityDetailsPage-promt messageValidation -Ok
+2021-10-18 16:47:12 INFO  clicks Register Button
+2021-10-18 16:47:18 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:47:18 INFO  Test Case :EntityDetailsPage-promt messageValidation -Ok
+2021-10-18 16:47:19 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:19 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:21 INFO  user will landed on the New User screen
+2021-10-18 16:47:22 INFO  clicks Cancel in New User
+2021-10-18 16:47:25 INFO  user will prompt to ask about confirmation
+2021-10-18 16:47:27 INFO  user will land on User Contact Details
+2021-10-18 16:47:27 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:30 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:47:30 INFO  Test Case :EntityDetailsPage-promt messageValidation -Ok
+2021-10-18 16:47:31 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:31 INFO  terminate app
+2021-10-18 16:47:37 INFO  Restarting new App
+2021-10-18 16:47:37 INFO  User Opens Application in 
+2021-10-18 16:47:42 INFO  user in Home screen
+2021-10-18 16:47:42 INFO  Test Case :EntityDetailsPage-promt messageValidation -Cancel
+2021-10-18 16:47:43 INFO  clicks Register Button
+2021-10-18 16:47:49 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:47:49 INFO  Test Case :EntityDetailsPage-promt messageValidation -Cancel
+2021-10-18 16:47:50 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:50 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:47:53 INFO  user will landed on the New User screen
+2021-10-18 16:47:54 INFO  clicks Cancel in New User
+2021-10-18 16:47:56 INFO  user will prompt to ask about confirmation
+2021-10-18 16:48:01 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:48:01 INFO  Test Case :EntityDetailsPage-promt messageValidation -Cancel
+2021-10-18 16:48:02 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:48:02 INFO  terminate app
+2021-10-18 16:48:08 INFO  Restarting new App
+2021-10-18 16:48:08 INFO  User Opens Application in 
+2021-10-18 16:48:13 INFO  user in Home screen
+2021-10-18 16:48:13 INFO  Test Case :EntityDetailsPage-validate user detailsPresent in screen
+2021-10-18 16:48:14 INFO  clicks Register Button
+2021-10-18 16:48:20 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:48:20 INFO  Test Case :EntityDetailsPage-validate user detailsPresent in screen
+2021-10-18 16:48:21 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:48:21 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:48:24 INFO  user will landed on the New User screen
+2021-10-18 16:48:35 INFO  user selects Country Code
+2021-10-18 16:48:41 INFO  user clicks on Confirm button
+2021-10-18 16:48:45 INFO  user will land on User Contact Details
+2021-10-18 16:48:45 INFO  properties files loaded in TestBase Constructor
+2021-10-18 16:48:47 INFO  user will landed on Legal Entity User Details
+2021-10-18 16:48:47 INFO  Test Case :EntityDetailsPage-validate user detailsPresent in screen

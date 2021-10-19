@@ -1,0 +1,61 @@
+2021-10-19 15:04:05 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:10 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:10 INFO  User Opens Application in 
+2021-10-19 15:04:10 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:14 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:14 INFO  User Opens Application in 
+2021-10-19 15:04:14 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:18 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:18 INFO  User Opens Application in 
+2021-10-19 15:04:18 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:22 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:22 INFO  User Opens Application in 
+2021-10-19 15:04:22 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:25 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:25 INFO  User Opens Application in 
+2021-10-19 15:04:25 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:29 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:29 INFO  User Opens Application in 
+2021-10-19 15:04:29 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:33 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:33 INFO  User Opens Application in 
+2021-10-19 15:04:33 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:37 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:37 INFO  User Opens Application in 
+2021-10-19 15:04:37 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:40 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:40 INFO  User Opens Application in 
+2021-10-19 15:04:41 INFO  properties files loaded in TestBase Constructor
+2021-10-19 15:04:44 INFO  Devices not available : org.openqa.selenium.WebDriverException: It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'IXED-SJR-DESK009', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-87-generic', java.version: '1.8.0_292'
+Driver info: driver.version: AndroidDriver
+2021-10-19 15:04:44 INFO  User Opens Application in 
+2021-10-19 15:04:44 INFO  properties files loaded in TestBase Constructor

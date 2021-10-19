@@ -1,0 +1,12 @@
+2021-10-17 21:19:04 INFO  properties files loaded in TestBase Constructor
+2021-10-17 21:19:35 INFO  Android Driver connected
+2021-10-17 21:19:35 INFO  User Opens Application in SAMSUNG_GalaxyTabS6_Android_11.0.0_383e3
+2021-10-17 21:19:35 INFO  Orientation IN : portrait
+2021-10-17 21:19:37 INFO  user in Home screen
+2021-10-17 21:19:37 INFO  Test Case :EntityDetailsPage-countrycode
+2021-10-17 21:19:38 INFO  clicks Register Button
+2021-10-17 21:19:43 INFO  user will landed on Legal Entity User Details
+2021-10-17 21:19:43 INFO  Test Case :EntityDetailsPage-countrycode
+2021-10-17 21:19:43 INFO  properties files loaded in TestBase Constructor
+2021-10-17 21:19:46 INFO  user will landed on the New User screen
+2021-10-17 21:20:01 INFO  user selects Country Code
